@@ -1,0 +1,36 @@
+-=-=-=-=-=-
+Vuelo a Frankfurt, Alemania
+Vuelo #1003
+9442 Kilómetros
+Costo $120,000.00
+05/marzo/2023
+10 horas
+-=-=-=-=-=-
+Vuelo a Brasilia, Brasil
+Vuelo #403
+6924 Kilómetros
+Costo $20,000.00
+07/junio/2023
+7 horas
+-=-=-=-=-=-
+Vuelo a Quebec, Canadá
+Vuelo #23
+3624 Kilómetros
+Costo $30,000.00
+03/abril/2023
+6 horas
+-=-=-=-=-=-
+Vuelo a Doha, Catar
+Vuelo #100
+13869 Kilómetros
+Costo $100,000.00
+28/febrero/2023
+13 horas
+-=-=-=-=-=-
+Vuelo a Santiago, Chile
+Vuelo #45
+7353 Kilómetros
+Costo $50,000.00
+1/enero/2023
+10 horas
+-=-=-=-=-=-
